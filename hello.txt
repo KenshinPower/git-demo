@@ -11,4 +11,4 @@ hello atheima! hello git!
 hello atheima! hello git!
 hello atheima! hello git!
 hello atheima! hello git! master test
-hello atheima! hello git!
+hello atheima! hello git! hot-fix test
